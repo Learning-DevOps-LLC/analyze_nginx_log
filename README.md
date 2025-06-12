@@ -30,6 +30,7 @@ You can use this [sample Nginx access log file](https://gist.githubusercontent.c
 The script will prompt you to download it automatically, or you can analyze your own log file.
 
 ---
+![image](https://github.com/user-attachments/assets/029071c8-c06d-40b5-b4e1-3d05bc9dfe2a)
 
 ## 🚀 How to Run
 
@@ -62,8 +63,6 @@ Top 5 response status codes:
 Top 5 user agents:
 Mozilla/5.0... - 800 requests
 ...
-
-![image](https://github.com/user-attachments/assets/029071c8-c06d-40b5-b4e1-3d05bc9dfe2a)
 
 🧠 Concepts Used
 awk for field extraction
