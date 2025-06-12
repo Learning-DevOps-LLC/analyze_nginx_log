@@ -63,8 +63,7 @@ Top 5 user agents:
 Mozilla/5.0... - 800 requests
 ...
 
-![image](https://github.com/user-attachments/assets/1f2d53af-9464-4a15-a318-aa2d1afca08e)
-
+![image](https://github.com/user-attachments/assets/029071c8-c06d-40b5-b4e1-3d05bc9dfe2a)
 
 🧠 Concepts Used
 awk for field extraction
