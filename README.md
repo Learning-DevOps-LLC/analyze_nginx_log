@@ -40,6 +40,11 @@ chmod +x analyze_nginx_log.sh
 # Run it
 ./analyze_nginx_log.sh
 
+You’ll be asked:
+
+Do you want to download the sample nginx access log from Kamran Ahmed's Gist? (y/n): y
+ 
+
 📊 Example Output
 
 Top 5 IP addresses with the most requests:
@@ -57,6 +62,8 @@ Top 5 response status codes:
 Top 5 user agents:
 Mozilla/5.0... - 800 requests
 ...
+
+![image](https://github.com/user-attachments/assets/1f2d53af-9464-4a15-a318-aa2d1afca08e)
 
 
 🧠 Concepts Used
